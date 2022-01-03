@@ -111,8 +111,8 @@ CREATE TABLE `students` (
 --
 
 INSERT INTO `students` (`id`, `nama`, `nim`, `email`, `jurusan`, `created_at`, `updated_at`) VALUES
-(1, 'Aziman Ahmad', '0110220059', 'ahmadmilzam88@gmail.com', 'Teknik Informatika', '2021-10-30 06:22:50', '2021-11-04 00:01:57'),
-(2, 'Ahmad Milzam', '0110220001', 'milzam88@gmail.com', 'Teknik Informatika', '2021-10-30 06:41:38', '2021-10-30 06:41:38'),
+(1, 'Nigger', '0110220290', 'bdownload1234@gmail.com', 'Teknik Informatika', '2021-10-30 06:22:50', '2021-11-04 00:01:57'),
+(2, 'Chigga', '0110220021', 'download1234@gmail.com', 'Teknik Informatika', '2021-10-30 06:41:38', '2021-10-30 06:41:38'),
 (4, 'Budi', '0110220003', 'Budi88@gmail.com', 'Teknik Informatika', '2021-11-07 03:51:19', '2021-11-07 03:51:19'),
 (5, 'Dika', '0110220004', 'Dika88@gmail.com', 'Teknik Informatika', '2021-11-07 03:51:25', '2021-11-07 03:51:25'),
 (6, 'Husein', '0110330049', 'husein@mail.com', 'Sistem Informatika', NULL, NULL),
